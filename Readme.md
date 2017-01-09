@@ -1,5 +1,7 @@
 # Dead simple web server in Elm
 
+> This repo is supposed to host the files for a talk I'm about to give. WIP
+
 ## Phase one
 
 ### Running
